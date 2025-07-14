@@ -1,12 +1,25 @@
-# React + Vite
+# 🍓 Cutesie Pomodoro Timer 🍓
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A super cute and minimal **React + Vite** Pomodoro timer app  - perfect for focused study sessions with cutesie vibes 💖
 
-Currently, two official plugins are available:
+> Built with 💕 using React, Vite, TailwindCSS, and Framer Motion.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
-## Expanding the ESLint configuration
+## 🌸 Features
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- 🕒 25-minute focus sessions & 5-minute break mode
+- 🧁 Cutesie UI with pastel colors
+- ✨ Framer Motion animations for a magical experience
+- 🎀 Responsive and mobile-friendly
+
+
+## 📦 Tech Stack
+
+- ⚛️ **React** 
+- ⚡ **Vite** (super fast dev server and build tool)
+- 🌬️ **TailwindCSS** (for styling)
+- 🎞 **Framer Motion** (for animations)
+- 🧠 **Lucide React** (for cute minimal icons)
+
+
+Happy studying! 💗
